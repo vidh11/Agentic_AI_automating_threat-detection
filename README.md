@@ -67,14 +67,6 @@ All enriched outputs are uploaded to Cyber Vision for dashboard integration.
 
 ---
 
-## 🎬 Demo Video (Google Drive)
-
-<h3>🎬 Demo Video</h3>
-<iframe src="https://drive.google.com/file/d/1-fz5eYod2dFaeJBlZmV9zpTHp0o6I0WW/preview" width="640" height="360" allow="autoplay"></iframe>
-
-
-
-
 ---
 
 ## 🚀 Deployment Stack
@@ -108,5 +100,6 @@ output_path = Path("/mnt/data/README.md")
 output_path.write_text(readme_content)
 
 output_path
+
 
 
